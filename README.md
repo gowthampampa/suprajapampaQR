@@ -1,11 +1,5 @@
-# MediResearch Portal
+# Period Talks
 
-## Deploy to GitHub Pages
-1. Create a GitHub repository.
-2. Upload all files.
-3. Enable GitHub Pages from Settings > Pages.
+A responsive, single-page menstrual health awareness website based on the supplied PDF.
 
-## Deploy to Netlify
-Drag and drop this folder into Netlify.
-
-Replace dummy text, QR code URL, and images with your actual project data.
+Open `index.html` in a browser to preview it. The site uses Google Fonts, so an internet connection is needed for the intended typography.
